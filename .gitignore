@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-*.idea
+.idea/
 
 # Object files
 *.o
