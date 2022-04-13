@@ -1,3 +1,5 @@
 Heello world
 I am happy
-This is a project of V2.0 version but simple.
+<<<<<<< HEAD
+This is a project of V2.0 version and simple.
+
